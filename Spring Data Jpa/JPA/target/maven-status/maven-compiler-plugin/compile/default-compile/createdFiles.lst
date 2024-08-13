@@ -1,0 +1,4 @@
+com\coddingsuttle\JPA\entity\Product$ProductBuilder.class
+com\coddingsuttle\JPA\entity\Product.class
+com\coddingsuttle\JPA\repository\ProductRepository.class
+com\coddingsuttle\JPA\JpaApplication.class

@@ -1,0 +1,10 @@
+com\coddingshuttle\OneToOne\entities\EmployeeEntity.class
+com\coddingshuttle\OneToOne\repositories\EmployeeRepository.class
+com\coddingshuttle\OneToOne\services\DepartmentService.class
+com\coddingshuttle\OneToOne\services\EmployeeService.class
+com\coddingshuttle\OneToOne\OneToOneApplication.class
+com\coddingshuttle\OneToOne\controllers\EmployeeController.class
+com\coddingshuttle\OneToOne\entities\EmployeeEntity$EmployeeEntityBuilder.class
+com\coddingshuttle\OneToOne\controllers\DepartmentController.class
+com\coddingshuttle\OneToOne\entities\DepartmentEntity.class
+com\coddingshuttle\OneToOne\repositories\DepartmentRepository.class
